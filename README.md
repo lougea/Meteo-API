@@ -1,29 +1,30 @@
-# dev
+# API-METEO
 
-## Project setup
-```
-npm install
-```
+lien : https://lougea.github.io/Meteo-API/dist/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Auteur et copyright :
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Reda M'rabet & Louise Brunner
 
-### Run your tests
-```
-npm run test
-```
+## Date début projet :
 
-### Lints and fixes files
-```
-npm run lint
-```
+01 / 04 / 2019 (4jours)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## État du projet :
+
+terminé
+
+## Rapide description :
+
+
+
+## Mise en place, utilisation rapide : -
+## Licence(s):-
+## Documentation courte et/ou page pointant vers documentation longue : -
+## Méthode de rapport de bug, contribution : -
+
+---
+
+Modifié le 18/01/2019
+
+
