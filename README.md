@@ -16,12 +16,10 @@ terminé
 
 ## Rapide description :
 
-
-
-## Mise en place, utilisation rapide : -
-## Licence(s):-
-## Documentation courte et/ou page pointant vers documentation longue : -
-## Méthode de rapport de bug, contribution : -
+Plateforme donne des informations meteorologique à jour, d'aujourd'hui à 4 jours
+Node JS
+VUE Js
+Axios --> openweathermap
 
 ---
 
